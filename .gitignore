@@ -1,0 +1,63 @@
+# ── Python ────────────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+.Python
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# ── Virtual environments ──────────────────────────────────────────────────────
+.venv/
+env/
+venv/
+
+# ── Environment (never commit API keys) ──────────────────────────────────────
+.env
+*.env
+
+# ── Testing ───────────────────────────────────────────────────────────────────
+.pytest_cache/
+.coverage
+htmlcov/
+coverage.xml
+
+# ── Data / caches (large binaries — reproduced by running preprocess.py) ─────
+data/cache/
+data/spotify_songs.csv
+data/user_memory.json
+
+# ── Runtime outputs ───────────────────────────────────────────────────────────
+logs/
+eval_report.json
+*.log
+*.jsonl
+
+# ── Streamlit local config ────────────────────────────────────────────────────
+.streamlit/
+
+# ── Claude Code session memory (personal dev tooling) ────────────────────────
+.claude/
+
+# ── Personal / dev-only documentation ────────────────────────────────────────
+docs/
+
+# ── Screenshots (captured separately for Loom walkthrough) ───────────────────
+screenshots/
+
+# ── Legacy vector stores ──────────────────────────────────────────────────────
+chroma_db/
+chroma_db_threadtest/
+
+# ── OS files ──────────────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+
+# ── IDEs ──────────────────────────────────────────────────────────────────────
+.idea/
+.vscode/
+*.swp
+*.swo
