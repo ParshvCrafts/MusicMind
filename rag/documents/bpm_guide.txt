@@ -1,0 +1,56 @@
+BPM (BEATS PER MINUTE) GUIDE — MusicMind Knowledge Base
+
+BPM is the tempo of a track — how many beats occur per minute. It is the primary driver
+of energy perception and is critical for matching music to physical and mental states.
+
+VERY SLOW: 40–65 BPM
+Character: dreamy, meditative, almost suspended in time.
+Ideal for: sleep induction, deep meditation, ambient soundscapes.
+Examples: ambient electronic, drone music, certain classical slow movements.
+Effect: slows breathing and heart rate, promotes parasympathetic (rest) state.
+
+SLOW: 65–85 BPM
+Character: gentle, relaxed, introspective.
+Ideal for: reading, light conversation, winding down after work.
+Examples: acoustic folk, slow R&B ballads, chill hip-hop.
+Effect: promotes relaxation while maintaining wakefulness.
+
+MID-TEMPO: 85–110 BPM
+Character: comfortable, conversational, steady.
+Ideal for: background office music, dinner parties, casual social settings.
+Examples: jazz standards, mid-tempo pop, many R&B tracks.
+Effect: supports sustained moderate activity without disruption.
+
+UPBEAT: 110–130 BPM
+Character: energetic, feel-good, movement-inducing.
+Ideal for: commuting, light exercise, social energy building.
+Examples: pop hits, reggaeton, many EDM subgenres.
+Effect: elevates mood, increases alertness and movement motivation.
+
+HIGH ENERGY: 130–150 BPM
+Character: driving, intense, floor-filling.
+Ideal for: dancing, cardio workouts, high-focus coding sessions (for some people).
+Examples: house music, techno, fast pop, fast hip-hop.
+Effect: maximizes physical output, triggers adrenaline response.
+
+VERY HIGH ENERGY: 150–180+ BPM
+Character: aggressive, relentless, cathartic.
+Ideal for: intense workouts (HIIT, sprinting), heavy lifting, emotional release.
+Examples: drum and bass, hard techno, heavy metal, some trap music (which has half-time feel).
+Note: drum and bass at 170 BPM can FEEL like 85 BPM due to half-time rhythmic patterns.
+Effect: maximum adrenaline, best for short bursts of peak physical exertion.
+
+BPM MATCHING TIPS
+- For coding: 85–110 BPM creates a steady cognitive rhythm without distraction
+- For sleep: below 70 BPM, ideally matching or below resting heart rate
+- For workouts: match BPM to exercise cadence — running at ~160 steps/min works with 80 or 160 BPM
+- For studying: 80–100 BPM, consistent rhythm, no sudden tempo changes
+- For parties: 120–135 BPM is the "sweet spot" where most people naturally start moving
+
+BPM AND GENRE QUICK REFERENCE
+EDM:    120–150 BPM (big room peaks at 128–132)
+Latin:  95–130 BPM
+Pop:    100–125 BPM
+R&B:    70–105 BPM
+Rap:    70–100 BPM (half-time feel common)
+Rock:   100–170 BPM (metal peaks at 150–180)

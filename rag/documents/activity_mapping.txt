@@ -1,0 +1,66 @@
+ACTIVITY TO MUSIC MAPPING — MusicMind Knowledge Base
+
+CODING / PROGRAMMING
+Target energy: 0.35–0.55. Target valence: 0.4–0.65.
+Ideal BPM: 80–110. Instrumentalness preference: HIGH (0.7–1.0).
+Speechiness preference: LOW (avoid lyrics that compete with reading code).
+Best genres: EDM (melodic house), lo-fi hip-hop, ambient electronic, post-rock.
+Best moods: focused, chill, ambient. Avoid: intense, party (too distracting).
+Rationale: Coding requires sustained attention. Lyrics activate language centers that
+compete with reading. Steady mid-energy beats provide rhythmic support without disruption.
+The "flow state" is best maintained by tracks that don't demand conscious attention.
+
+WORKING OUT / GYM
+Target energy: 0.8–1.0. Target valence: 0.5–0.9.
+Ideal BPM: 120–160. Danceability: moderate to high.
+Best genres: EDM, rock, rap, latin. Best moods: happy, intense, party.
+Avoid: ambient, chill, sad (drains motivation).
+Rationale: High energy and high BPM synchronize with physical exertion. The drive of
+intense or happy music raises adrenaline and reduces perceived exertion during workouts.
+Many athletes prefer tracks at 140–160 BPM for high-intensity intervals.
+
+STUDYING / READING
+Target energy: 0.25–0.45. Target valence: 0.35–0.65.
+Ideal BPM: 60–100. Instrumentalness preference: HIGH.
+Best genres: Classical, acoustic, lo-fi. Best moods: chill, focused, ambient.
+Avoid: rap (high speechiness), rock (high energy disrupts reading).
+Rationale: Similar to coding but even lower energy. Reading comprehension drops when
+music has competing lyrics. Steady rhythms without surprise tempo changes work best.
+
+SLEEP / WIND DOWN
+Target energy: 0.0–0.25. Target valence: 0.35–0.65 (neutral to slightly positive).
+Ideal BPM: below 70. Acousticness: HIGH.
+Best genres: Ambient, acoustic, classical. Best moods: ambient, chill, sad (gentle).
+Avoid: anything with energy > 0.5 or BPM > 90.
+Rationale: Music for sleep should slow the nervous system. BPM below the resting heart
+rate (~60–70 BPM) has been shown to reduce heart rate and promote relaxation. Silence-heavy
+tracks with long decay work especially well.
+
+COMMUTING / DRIVING
+Target energy: 0.55–0.8. Target valence: 0.5–0.8.
+Ideal BPM: 100–130. No strong instrumentalness preference.
+Best genres: Pop, rock, R&B, latin. Best moods: happy, focused, relaxed.
+Rationale: Driving benefits from tracks that maintain alertness without over-stimulating.
+Songs with clear vocals and consistent energy work well for highway driving. For city
+commutes, slightly lower energy prevents stress amplification.
+
+PARTY / SOCIAL GATHERING
+Target energy: 0.75–1.0. Target valence: 0.65–1.0.
+Ideal BPM: 115–145. Danceability: HIGH.
+Best genres: EDM, latin, pop. Best moods: happy, party, intense.
+Rationale: High energy and positive valence create social energy. Danceability is
+the primary driver — tracks with strong, consistent grooves keep crowds engaged.
+
+DINNER PARTY
+Target energy: 0.4–0.65. Target valence: 0.5–0.75.
+Ideal BPM: 85–115. No strong genre preference.
+Best genres: Jazz, R&B, pop, acoustic. Best moods: relaxed, chill, focused.
+Rationale: Background music for conversation should fill silence without dominating.
+Moderate energy prevents the music from demanding attention.
+
+MEDITATION / YOGA
+Target energy: 0.1–0.35. Target valence: 0.4–0.7.
+Ideal BPM: 50–80. Acousticness: very HIGH. Instrumentalness: HIGH.
+Best genres: Ambient, acoustic. Best moods: ambient, chill.
+Rationale: The goal is non-interference. Music should recede into the background
+and support mindfulness without triggering emotional responses or cognitive engagement.

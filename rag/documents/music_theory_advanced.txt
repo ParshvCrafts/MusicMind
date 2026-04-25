@@ -1,0 +1,108 @@
+ADVANCED MUSIC THEORY — MusicMind Knowledge Base
+
+=== MUSICAL MODES ===
+
+A mode is a type of scale derived from the major scale by starting on a different degree.
+Each mode has a distinct emotional character used by composers and producers across all genres.
+
+IONIAN (Major Scale)
+Pattern: W-W-H-W-W-W-H. Bright, happy, resolved. Most common in pop and EDM.
+Example feel: triumphant, celebratory, uplifting.
+
+DORIAN
+Minor mode with a raised 6th. Darker than major but not fully sad — melancholic yet groovy.
+Widely used in jazz, funk, and soul. Many classic rock riffs use Dorian (e.g., Carlos Santana).
+Key songs use D Dorian: "Oye Como Va", "So What" (Miles Davis).
+
+PHRYGIAN
+Very dark, Spanish-flavored mode (lowered 2nd). Used in flamenco, metal, and Middle Eastern music.
+Creates tension and exoticism. Common in aggressive and dramatic contexts.
+
+LYDIAN
+Major mode with a raised 4th. Dreamy, floating, otherworldly. Used in film scores and ambient music.
+Creates a sense of wonder and suspension. Associated with Hans Zimmer, Danny Elfman.
+
+MIXOLYDIAN
+Major scale with a lowered 7th. THE blues and rock mode — sounds like major but with an edge.
+Extremely common in rock, blues, country, and jam band music. Creates a feeling of
+tension-within-satisfaction — it grooves without fully resolving.
+Examples: "Norwegian Wood" (Beatles), most blues-rock guitar solos, classic rock anthems.
+Bob Dylan, Jimi Hendrix, and the Rolling Stones used Mixolydian extensively.
+The "bluesy" feeling that distinguishes rock from pure pop comes largely from Mixolydian
+tonality and the use of the "blue note" (flattened 3rd or 5th).
+
+AEOLIAN (Natural Minor)
+Standard minor scale. Sad, serious, emotionally weighty. The default for melancholic music.
+Used across all genres when sadness or depth is required.
+
+LOCRIAN
+Unstable, dissonant mode. Rarely used as a key center — found in extreme metal and jazz fusion.
+
+=== BLUES MUSIC THEORY ===
+
+The blues is built on a few foundational elements:
+
+BLUES SCALE
+Major pentatonic + "blue notes" (flattened 3rd, 5th, 7th).
+These "bent" notes create the characteristic tension-and-release of the blues.
+In our catalog, blues-influenced tracks appear in rock and r&b genres with:
+- Lower valence (0.2–0.5, the tension of the blues)
+- Mid-to-high energy (0.5–0.8)
+- Often mid-tempo (80–120 BPM, the 12-bar blues structure)
+
+12-BAR BLUES STRUCTURE
+The fundamental chord progression: I–I–I–I–IV–IV–I–I–V–IV–I–V
+This structure underlies most rock, country, and early R&B. Tracks with a "blues feel"
+typically have this underlying harmonic structure. The cyclic nature creates a
+meditative, repetitive groove — excellent for focus and emotional processing.
+
+BLUES IN MODERN GENRES
+Rock: Most classic rock bands trace their roots to blues (Led Zeppelin, Cream, SRV).
+R&B: Rhythm and Blues literally grew from blues. Contemporary R&B retains blues phrasing.
+Jazz: Jazz evolved from blues harmony — minor 7th chords and dominant 7ths are blues staples.
+
+=== COMPLEX RHYTHMS: POLYRHYTHM AND UNUSUAL TIME SIGNATURES ===
+
+POLYRHYTHM
+Two or more rhythmic patterns with different cycle lengths played simultaneously.
+The most common: 3 against 2 (triplets over straight eighth notes).
+Also common: 4 against 3, 5 against 4 (in progressive rock and Afrobeat).
+
+Where to hear polyrhythm in our catalog:
+- Rock: Progressive rock (Tool, Radiohead, Muse) uses heavy polyrhythmic structures
+- EDM: Many electronic tracks layer different rhythmic cycles (hemiola in house music)
+- Latin music: Clave rhythm is a fundamental polyrhythmic structure (3-2 or 2-3 clave)
+- R&B and hip-hop: Ghost notes and syncopated bass lines create implied polyrhythm
+
+UNUSUAL TIME SIGNATURES
+Standard pop/rock uses 4/4 (four beats per measure). Unusual meters include:
+- 3/4 (waltz time): three beats per measure. Sweeping, danceable in a different way.
+- 5/4: Five beats per measure. Creates an unsettled, rolling feeling (Dave Brubeck's "Take Five").
+- 7/8: Seven eighth-note beats per bar. Asymmetric, progressive feel.
+- 6/8: Six eighth notes per bar — feels like two groups of three. Common in ballads and blues.
+- Odd meters (9/8, 11/8): Found in progressive rock, jazz fusion, and Indian classical music.
+
+In our catalog, songs with complex rhythmic character tend to be:
+- Rock genre with high energy and low-to-mid valence
+- R&B tracks with syncopated grooves (liveness feature often higher)
+- Latin tracks (clave-based polyrhythm is built into reggaeton and salsa)
+
+When recommending for music theory / complex rhythm queries:
+Prioritize songs with varied danceability (0.5–0.7), mid energy (0.5–0.8),
+and note that "complexity" correlates with musical depth rather than raw energy.
+
+=== CHORD PROGRESSIONS AND HARMONIC THEORY ===
+
+CIRCLE OF FIFTHS
+The foundational map of key relationships. Keys a fifth apart share 6 of 7 notes.
+Movement around the circle creates the feeling of harmonic "journey."
+Pop and EDM heavily exploit vi-IV-I-V (Am-F-C-G in C major) — the ubiquitous progression.
+
+BORROWED CHORDS AND MODAL MIXTURE
+Adding a chord from the parallel minor (e.g., using bVII in a major key) creates
+the Mixolydian and blues-rock sound. The Rolling Stones and Beatles used this constantly.
+
+JAZZ HARMONY
+Jazz extended chords (9ths, 11ths, 13ths) and substitutions (tritone substitution)
+create complex, ambiguous harmonic textures. These correspond in our catalog to
+R&B tracks with mid energy, mid-high instrumentalness, and neutral-positive valence.

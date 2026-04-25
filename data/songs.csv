@@ -1,0 +1,21 @@
+id,title,artist,genre,mood,energy,tempo_bpm,valence,danceability,acousticness
+1,Sunrise City,Neon Echo,pop,happy,0.82,118,0.84,0.79,0.18
+2,Midnight Coding,LoRoom,lofi,chill,0.42,78,0.56,0.62,0.71
+3,Storm Runner,Voltline,rock,intense,0.91,152,0.48,0.66,0.10
+4,Library Rain,Paper Lanterns,lofi,chill,0.35,72,0.60,0.58,0.86
+5,Gym Hero,Max Pulse,pop,intense,0.93,132,0.77,0.88,0.05
+6,Spacewalk Thoughts,Orbit Bloom,ambient,chill,0.28,60,0.65,0.41,0.92
+7,Coffee Shop Stories,Slow Stereo,jazz,relaxed,0.37,90,0.71,0.54,0.89
+8,Night Drive Loop,Neon Echo,synthwave,moody,0.75,110,0.49,0.73,0.22
+9,Focus Flow,LoRoom,lofi,focused,0.40,80,0.59,0.60,0.78
+10,Rooftop Lights,Indigo Parade,indie pop,happy,0.76,124,0.81,0.82,0.35
+11,Bass Cathedral,DJ Monolith,edm,intense,0.95,140,0.72,0.91,0.03
+12,Rainy Window,Soft Canvas,acoustic,sad,0.25,68,0.32,0.30,0.95
+13,Salsa del Sol,Fuego Beats,latin,happy,0.88,128,0.90,0.93,0.12
+14,Dark Forest,Grimstone,metal,intense,0.97,170,0.20,0.45,0.04
+15,Sunday Morning,The Porch Cats,folk,relaxed,0.30,82,0.75,0.48,0.91
+16,Neon Bounce,Pixel Arcade,electronic,happy,0.85,136,0.78,0.87,0.08
+17,Lonely Highway,Steel Horizon,country,sad,0.40,96,0.38,0.42,0.80
+18,Moonlit Waltz,Velvet Keys,classical,relaxed,0.20,72,0.55,0.25,0.97
+19,Trap Kingdom,808 Savage,hip hop,moody,0.80,145,0.45,0.76,0.06
+20,Ocean Lullaby,Tidal Hum,ambient,chill,0.22,55,0.62,0.35,0.94

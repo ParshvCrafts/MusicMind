@@ -1,0 +1,43 @@
+MUSIC GENRE GUIDE — MusicMind Knowledge Base
+
+EDM (Electronic Dance Music)
+Energy range: 0.7–1.0. Typical BPM: 120–150. Instruments: synthesizers, drum machines, bass drops.
+Mood profile: high energy, euphoric, party-ready. Subgenres include: progressive house, big room,
+electro house, and dubstep. Ideal for: workouts, dancing, late-night parties. Valence typically
+moderate to high (0.5–0.9). Heavy use of synthesized sounds, minimal acoustic instruments.
+Artists known for EDM include The Chainsmokers, Avicii, Martin Garrix, Zedd, and Marshmello.
+
+LATIN
+Energy range: 0.6–0.9. Typical BPM: 95–130. Instruments: guitars, brass, percussion, congas.
+Mood profile: joyful, rhythmic, passionate. Subgenres include: reggaeton, salsa, cumbia, latin pop.
+Danceability is extremely high (0.7–0.95). Valence is usually high (0.6–0.9). Features strong
+percussion patterns and call-and-response rhythms. Great for: dancing, parties, workouts.
+Artists include Bad Bunny, J Balvin, Maluma, Shakira, and Ozuna.
+
+POP
+Energy range: 0.5–0.85. Typical BPM: 100–130. Instruments: electric guitars, keyboards, programmed drums.
+Mood profile: accessible, upbeat, emotionally varied. Pop is the most diverse genre — it ranges
+from melancholic ballads to euphoric dance tracks. High danceability (0.6–0.85). Valence varies
+widely (0.3–0.9). Ideal for: general listening, background music, social gatherings.
+Artists include Ed Sheeran, Ariana Grande, Dua Lipa, Taylor Swift, and The Weeknd.
+
+R&B (Rhythm and Blues)
+Energy range: 0.4–0.75. Typical BPM: 75–115. Instruments: keyboards, bass guitar, smooth drums.
+Mood profile: smooth, emotional, sensual. Strong vocal-forward tracks. Valence varies (0.3–0.75).
+High speechiness compared to other genres due to vocal emphasis. Subgenres: contemporary R&B,
+neo-soul, trap soul. Ideal for: relaxing, late evenings, romantic settings.
+Artists include SZA, Frank Ocean, The Weeknd, H.E.R., and Khalid.
+
+RAP / HIP-HOP
+Energy range: 0.55–0.85. Typical BPM: 70–110 (often with half-time feel). Instruments: sampled beats,
+808 bass, vocal performance. Mood profile: confident, intense, expressive. High speechiness (0.1–0.35)
+due to rap vocals. Danceability varies (0.6–0.9). Valence varies widely based on style — boom bap
+tends to be neutral, trap tends to be darker. Artists include Drake, Kendrick Lamar, Travis Scott,
+Cardi B, and Post Malone.
+
+ROCK
+Energy range: 0.6–0.97. Typical BPM: 100–170. Instruments: electric guitars, bass, drums, vocals.
+Mood profile: intense, powerful, emotionally charged. Low acousticness (0.0–0.3) — electric instruments
+dominate. Danceability is moderate (0.3–0.6). Subgenres range from indie rock (lower energy, 0.5–0.7)
+to metal (very high energy, 0.85–1.0). Valence varies greatly. Ideal for: workouts, focus, emotional
+release. Artists include Imagine Dragons, Arctic Monkeys, Twenty One Pilots, and Foo Fighters.

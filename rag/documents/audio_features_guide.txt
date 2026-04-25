@@ -1,0 +1,63 @@
+SPOTIFY AUDIO FEATURES GUIDE — MusicMind Knowledge Base
+
+This guide explains the 12 audio features used by Spotify's audio analysis engine.
+All numerical features are normalized to the range 0.0 to 1.0 unless otherwise noted.
+
+DANCEABILITY (0.0–1.0)
+Describes how suitable a track is for dancing based on tempo, rhythm stability, beat strength,
+and overall regularity. 0.0 = least danceable, 1.0 = most danceable. Tracks above 0.8 are
+excellent for dancing. EDM and latin music typically score 0.7–0.95. Acoustic ballads score 0.2–0.4.
+
+ENERGY (0.0–1.0)
+Perceptual measure of intensity and activity. High-energy tracks feel fast, loud, and noisy.
+Contributing factors: dynamic range, perceived loudness, timbre, onset rate. Death metal scores
+near 1.0. Classical nocturnes score near 0.1. This is the single most important feature for
+matching activity-based queries (workout, sleep, coding).
+
+VALENCE (0.0–1.0)
+Musical positiveness. High valence = sounds positive (happy, cheerful, euphoric).
+Low valence = sounds negative (sad, depressed, angry). This is NOT volume or energy — a loud
+rock song can have low valence (angry) or high valence (triumphant). Key for matching emotional
+state of the user.
+
+ACOUSTICNESS (0.0–1.0)
+Confidence measure of whether the track is acoustic. 1.0 = high confidence it is acoustic.
+Electric guitars, synthesizers, and drum machines push this toward 0.0. Acoustic guitars,
+piano, and orchestral instruments push toward 1.0. Important for matching "acoustic preference."
+
+INSTRUMENTALNESS (0.0–1.0)
+Predicts whether a track contains no vocals. "Ooh" and "aah" sounds are treated as instrumental.
+Rap and spoken word tracks score near 0.0. Purely instrumental classical or electronic scores near 1.0.
+Values above 0.5 indicate likely instrumental. Highly relevant for focus/coding contexts where
+lyrics compete with reading.
+
+SPEECHINESS (0.0–1.0)
+Detects presence of spoken words. Above 0.66 = mostly spoken words (podcast, audiobook, spoken word).
+Between 0.33 and 0.66 = may contain both music and speech (rap). Below 0.33 = music with little speech.
+For concentration tasks, prefer tracks with speechiness < 0.1.
+
+TEMPO (BPM)
+Overall estimated tempo in beats per minute. NOT normalized — raw BPM float.
+Typical ranges: ambient 40–70 BPM, chill 70–90 BPM, mid-tempo 90–120 BPM,
+upbeat 120–140 BPM, intense 140–180 BPM.
+
+LIVENESS (0.0–1.0)
+Detects presence of an audience in the recording. Above 0.8 = strong likelihood of live recording.
+Most studio tracks score below 0.3. Live recordings have different acoustic signatures —
+more room ambience, crowd noise, and dynamic variation.
+
+KEY (0–11)
+Estimated overall key using standard Pitch Class notation: 0=C, 1=C#/Db, 2=D, 3=D#/Eb,
+4=E, 5=F, 6=F#/Gb, 7=G, 8=G#/Ab, 9=A, 10=A#/Bb, 11=B. -1 = no key detected.
+
+MODE (0 or 1)
+Modality of the track. 1 = major scale (typically sounds brighter, happier).
+0 = minor scale (typically sounds darker, more melancholic). Major keys often correlate
+with higher valence, minor keys with lower valence, though this is not universal.
+
+LOUDNESS (dB)
+Overall loudness averaged across the entire track. NOT normalized — raw dB float.
+Typical range: -60 to 0 dB. Quiet acoustic music: -25 to -15 dB. Loud rock/EDM: -8 to -3 dB.
+
+DURATION_MS
+Duration of the track in milliseconds. Typical pop song: 180,000–240,000 ms (3–4 minutes).

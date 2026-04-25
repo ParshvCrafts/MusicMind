@@ -1,0 +1,61 @@
+MUSIC MOOD THEORY — MusicMind Knowledge Base
+
+How Spotify Audio Features Map to Emotional States
+
+HAPPY
+Audio signature: valence > 0.7, energy > 0.7
+Characteristics: uplifting, positive, celebratory. High tempo (120+ BPM typical).
+High danceability. Common in pop, latin, and EDM. Songs with high valence and energy
+feel joyful and emotionally uplifting. Examples: dance pop, latin pop, upbeat EDM.
+
+INTENSE
+Audio signature: valence < 0.3, energy > 0.7
+Characteristics: aggressive, powerful, cathartic. Low valence creates tension while
+high energy drives urgency. Common in rock, metal subgenres, and high-energy EDM.
+The emotional state combines raw power with emotional darkness. BPM is typically 130–170.
+
+SAD / MELANCHOLIC
+Audio signature: valence < 0.3, energy < 0.4
+Characteristics: contemplative, sorrowful, introspective. Slow tempo (below 90 BPM),
+high acousticness, minimal percussion. Low energy creates space for emotional reflection.
+Common in acoustic singer-songwriter, indie folk, and slow R&B. These tracks often feature
+piano and acoustic guitar as primary instruments.
+
+CHILL
+Audio signature: energy < 0.4, acousticness > 0.5
+Characteristics: relaxed, warm, unhurried. Moderate to high acousticness with soft
+instrumentation. Tempo is slow to mid (65–100 BPM). Valence is typically neutral to
+slightly positive (0.4–0.7). Ideal for background listening, reading, casual conversations.
+Common in acoustic pop, lo-fi, jazz, and folk.
+
+FOCUSED
+Audio signature: 0.4 ≤ energy ≤ 0.7, valence ≥ 0.4
+Characteristics: steady, consistent, non-distracting. Mid-range energy prevents distraction
+while providing enough momentum to sustain attention. Moderate valence avoids emotional
+peaks that break concentration. High instrumentalness is a bonus — fewer lyrics means less
+cognitive competition with reading or coding. Tempo: 80–120 BPM.
+
+PARTY
+Audio signature: danceability > 0.8
+Characteristics: groove-driven, high danceability regardless of valence or energy.
+Strong rhythmic patterns, pronounced bass, and consistent beat make these ideal for
+social settings. Common in EDM, latin, pop, and hip-hop.
+
+AMBIENT
+Audio signature: energy < 0.3
+Characteristics: atmospheric, spacious, texturally rich. Very low energy, often minimal
+percussion. Functions as a sonic background rather than focal music. High acousticness or
+electronic texture. Tempo below 80 BPM. Used for sleep, meditation, deep focus.
+
+RELAXED
+Audio signature: all other combinations
+Characteristics: comfortable middle ground — not energetic enough to drive action but
+not so low-energy as to induce sleep. Moderate valence. Serves as catch-all for tracks
+that have balanced audio profiles without extreme values in any dimension.
+
+VALENCE QUICK REFERENCE
+0.0–0.2: Very sad, dark, or angry
+0.2–0.4: Melancholic, somber
+0.4–0.6: Neutral, bittersweet
+0.6–0.8: Pleasant, positive
+0.8–1.0: Joyful, euphoric, uplifting
