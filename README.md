@@ -358,7 +358,7 @@ Weights are derived deterministically from the MoodProfile on the first pass (no
 
 ## Demo Walkthrough
 
-**Walkthrough video:** [DEMO](https://www.loom.com/share/YOUR_LOOM_ID_HERE](https://drive.google.com/file/d/1bir-I3akqm9zgyZPMAalt6_7JygMBeQm/view?usp=sharing)
+**Walkthrough video:** [DEMO](https://drive.google.com/file/d/1bir-I3akqm9zgyZPMAalt6_7JygMBeQm/view?usp=sharing)
 
 The walkthrough demonstrates:
 - End-to-end run with 3 queries (gym workout, melancholic rainy day, late-night coding)
