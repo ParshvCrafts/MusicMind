@@ -337,7 +337,7 @@ musicmind/
 
 ## Scoring Formula
 
-![Scoring Breakdown — Gym Query](assets/scoring_breakdown.png)
+![Scoring Breakdown: Gym Query](assets/scoring_breakdown.png)
 
 ```
 score = genre_match * 2.0           # 1 if genre in preferred_genres else 0
@@ -358,8 +358,7 @@ Weights are derived deterministically from the MoodProfile on the first pass (no
 
 ## Demo Walkthrough
 
-**Loom video:** [https://www.loom.com/share/YOUR_LOOM_ID_HERE](https://www.loom.com/share/YOUR_LOOM_ID_HERE)
-*(Replace the link above with your recorded Loom URL before submitting.)*
+**Walkthrough video:** [DEMO](https://www.loom.com/share/YOUR_LOOM_ID_HERE](https://drive.google.com/file/d/1bir-I3akqm9zgyZPMAalt6_7JygMBeQm/view?usp=sharing)
 
 The walkthrough demonstrates:
 - End-to-end run with 3 queries (gym workout, melancholic rainy day, late-night coding)
@@ -404,4 +403,4 @@ See [`reflection.md`](reflection.md) and [`model_card.md`](model_card.md) for a 
 
 ## Portfolio Reflection
 
-MusicMind represents how I think about AI engineering: reliability and transparency first, capability second. When I had a working prototype, my instinct wasn't to ship it — it was to ask what happens when it fails, and then build the guardrails, retry logic, and eval harness to answer that question systematically. The decision to keep the first scoring pass fully deterministic wasn't about avoiding LLMs; it was about knowing exactly where non-determinism adds value and keeping it out everywhere else. Working with AI as a collaborator throughout this project also sharpened a skill I consider core to the discipline: recognizing when an AI suggestion is solving the right problem versus a plausible-sounding wrong one — and having enough system understanding to tell the difference before it ships.
+MusicMind represents how I think about AI engineering: reliability and transparency first, capability second. When I had a working prototype, my instinct wasn't to ship it. It was to ask what happens when it fails, and then build the guardrails, retry logic, and eval harness to answer that question systematically. The decision to keep the first scoring pass fully deterministic wasn't about avoiding LLMs; it was about knowing exactly where non-determinism adds value and keeping it out everywhere else. Working with AI as a collaborator throughout this project also sharpened a skill I consider core to the discipline: recognizing when an AI suggestion is solving the right problem versus a plausible-sounding wrong one, and having enough system understanding to tell the difference before it ships.
